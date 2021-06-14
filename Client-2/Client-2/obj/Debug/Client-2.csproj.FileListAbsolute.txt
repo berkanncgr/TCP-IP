@@ -1,0 +1,7 @@
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-2\Client-2\bin\Debug\Client-2.exe.config
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-2\Client-2\bin\Debug\Client-2.exe
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-2\Client-2\bin\Debug\Client-2.pdb
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-2\Client-2\obj\Debug\Client-2.csprojAssemblyReference.cache
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-2\Client-2\obj\Debug\Client-2.csproj.CoreCompileInputs.cache
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-2\Client-2\obj\Debug\Client-2.exe
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-2\Client-2\obj\Debug\Client-2.pdb

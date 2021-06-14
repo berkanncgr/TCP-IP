@@ -1,0 +1,7 @@
+C:\Users\Erhan\source\repos\Client-4\Client-4\bin\Debug\Client-4.exe.config
+C:\Users\Erhan\source\repos\Client-4\Client-4\bin\Debug\Client-4.exe
+C:\Users\Erhan\source\repos\Client-4\Client-4\bin\Debug\Client-4.pdb
+C:\Users\Erhan\source\repos\Client-4\Client-4\obj\Debug\Client-4.csprojAssemblyReference.cache
+C:\Users\Erhan\source\repos\Client-4\Client-4\obj\Debug\Client-4.csproj.CoreCompileInputs.cache
+C:\Users\Erhan\source\repos\Client-4\Client-4\obj\Debug\Client-4.exe
+C:\Users\Erhan\source\repos\Client-4\Client-4\obj\Debug\Client-4.pdb

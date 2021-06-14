@@ -1,0 +1,7 @@
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-3\Client-3\bin\Debug\Client-3.exe.config
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-3\Client-3\bin\Debug\Client-3.exe
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-3\Client-3\bin\Debug\Client-3.pdb
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-3\Client-3\obj\Debug\Client-3.csprojAssemblyReference.cache
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-3\Client-3\obj\Debug\Client-3.csproj.CoreCompileInputs.cache
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-3\Client-3\obj\Debug\Client-3.exe
+C:\Users\Erhan\Desktop\Mülakat\TCP-IP\Client-3\Client-3\obj\Debug\Client-3.pdb
